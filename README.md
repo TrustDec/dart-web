@@ -1,4 +1,6 @@
 An absolute bare-bones web app.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+webdev stagehand 
+add `.pub-cache/bin` for `.bash_profile` and `source .bash_profile`
+
+> export PATH="$PATH":"$HOME/.pub-cache/bin"
